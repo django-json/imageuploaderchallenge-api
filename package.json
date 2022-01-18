@@ -1,0 +1,19 @@
+{
+  "name": "imageuploaderchallenge-api",
+  "version": "1.0.0",
+  "description": "image uploader challenge backend server",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "django-json",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^1.28.1",
+    "cors": "^2.8.5",
+    "datauri": "^4.1.0",
+    "dotenv": "^11.0.0",
+    "express": "^4.17.2",
+    "multer": "^1.4.4"
+  }
+}
