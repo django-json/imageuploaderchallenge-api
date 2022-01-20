@@ -30,4 +30,4 @@ $ npm start
   CLOUD_API_KEY=[Put your API KEY here]
   CLOUD_SECRET_KEY=[Put your SECRET KEY here] 
   ```
-6. Make sure you do not include the brackets. Then your done!
+6. Make sure you do not include the brackets. Then you're done!
