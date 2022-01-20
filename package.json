@@ -2,9 +2,9 @@
   "name": "imageuploaderchallenge-api",
   "version": "1.0.0",
   "description": "image uploader challenge backend server",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "author": "django-json",
   "license": "ISC",
