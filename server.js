@@ -21,7 +21,7 @@ app.use(cloudinaryConfig);
 
 //Routes
 app.get('/', (req, res) => {
-    res.send('root');
+    res.json({status: "ok"});
 });
 
 app.post(
