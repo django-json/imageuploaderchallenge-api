@@ -17,3 +17,17 @@ $ npm install
 # Run the app
 $ npm start
 ```
+
+## How To Upload Images/Files To Cloudinary
+1. Register to [Cloudinary](https://cloudinary.com/)
+2. Go to Dashboard.
+3. In Account Details, copy the following variables: cloud name, api key, api secret.
+4. In the project root directory, create a new file .env
+5. In .env file, copy the following and save:
+  ```
+  PORT=3001
+  CLOUD_NAME=[Put your cloud name here]
+  CLOUD_API_KEY=[Put your API key here]
+  CLOUD_SECRET_KEY=[Put your Secret key here] 
+  ```
+6. Done!
