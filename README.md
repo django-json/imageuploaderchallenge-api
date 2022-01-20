@@ -26,8 +26,8 @@ $ npm start
 5. In .env file, copy the following and save:
   ```
   PORT=3001
-  CLOUD_NAME=[Put your cloud name here]
-  CLOUD_API_KEY=[Put your API key here]
-  CLOUD_SECRET_KEY=[Put your Secret key here] 
+  CLOUD_NAME=[Put your CLOUD NAME here]
+  CLOUD_API_KEY=[Put your API KEY here]
+  CLOUD_SECRET_KEY=[Put your SECRET KEY here] 
   ```
 6. Done!
