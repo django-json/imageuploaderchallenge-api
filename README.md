@@ -34,4 +34,4 @@ $ npm start
 
 ## Available Routes
 - GET "/" to test the API if it is working.
-- POST "/uploads" route to upload a single image at a time.
+- POST "/uploads" to upload a single image at a time.
