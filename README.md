@@ -22,7 +22,7 @@ $ npm start
 1. Register to [Cloudinary](https://cloudinary.com/).
 2. Go to Dashboard.
 3. In Account Details, copy the following variables: cloud name, api key, api secret.
-4. In the project root directory, create a new file .env
+4. In the project root directory (imageuploaderchallenge-api/), create a new file .env
 5. In .env file, copy the following and save:
   ```
   PORT=3001
