@@ -33,5 +33,8 @@ $ npm start
 6. Make sure you do not include the brackets. Then you're done!
 
 ## Available Routes
-- GET "/" to test the API if it is working.
-- POST "/uploads" to upload a single image at a time.
+
+```
+GET     "/"           - to test the API if it is working.
+POST    "/uploads"    - to upload a single image at a time.
+```
